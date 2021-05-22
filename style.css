@@ -1,0 +1,29 @@
+#number-guess,
+#result,
+#history {
+  max-width: 400px;
+  margin: 0 auto;
+}
+#history {
+  margin-top: 16px;
+}
+.banner {
+  text-align: center;
+  font-size: 5.2vw;
+}
+#btn1 {
+  margin-left: 40vw;
+}
+.alert {
+  text-align: center;
+  border: 1px solid transparent;
+  border-radius: 8px;
+}
+#alert-success {
+  background-color: #aff5ab;
+  border-color: #a5d693;
+}
+#alert-warning {
+  background-color: #f2dede;
+  border-color: #b47b7b;
+}
